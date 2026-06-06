@@ -69,6 +69,20 @@ export const portfolioArea = [
             "The design focuses on simplicity, ensuring that users can easily add and track their daily habits without friction.",
             "Through numerous iterations, the layout was optimized for maximum user engagement and readability, sticking to modern design principles with a clean visual hierarchy."
         ]
+    },
+    {
+        title: "Android App",
+        description: "All Bank Balance Check",
+        imgUrl: "/images/portfolio/port-img5-large.jpg",
+        imgLargeUrl: "/images/portfolio/port-img5-large.jpg",
+        link: "https://play.google.com/store/apps/details?id=com.balance.check.banking.tool&hl=com.balance.check.banking.tool",
+        duration: "1 Week",
+        task: "UI/UX Design",
+        details: [
+            "All Bank Balance Check – Smart Banking Utility App",
+            "All Bank Balance Check is a comprehensive banking utility application designed to help users access important banking information quickly and conveniently.",
+            "The app provides useful banking services, account-related tools, and financial utilities in one place."
+        ]
     }
 ];
 
