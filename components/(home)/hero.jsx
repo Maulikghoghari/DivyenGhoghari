@@ -17,28 +17,28 @@ export default function Hero() {
                     <Image
                         height={74}
                         width={88}
-                        alt="shape"
+                        alt="Decorative background shape 1"
                         className="hero-shape hero-shape1 position-absolute d-none d-lg-inline-block"
                         src="/images/shape/shape1.png"
                     />
                     <Image
                         height={44}
                         width={53}
-                        alt="shape"
+                        alt="Decorative background shape 2"
                         className="hero-shape hero-shape2 position-absolute d-none d-lg-inline-block"
                         src="/images/shape/shape2.png"
                     />
                     <Image
                         height={29}
                         width={31}
-                        alt="shape"
+                        alt="Decorative background shape 3"
                         className="hero-shape hero-shape3 position-absolute d-none d-lg-inline-block"
                         src="/images/shape/shape3.png"
                     />
                     <Image
                         height={98}
                         width={94}
-                        alt="shape"
+                        alt="Decorative background shape 4"
                         className="hero-shape hero-shape4 position-absolute d-none d-lg-inline-block"
                         src="/images/shape/shape4.png"
                     />
@@ -105,7 +105,7 @@ export default function Hero() {
                                     height={1100}
                                     width={850}
                                     src="/images/slider/person.png"
-                                    alt="hero image"
+                                    alt="Divyen Ghoghari - Software Engineer"
                                     style={{
                                         width: "100%",
                                         height: "auto",

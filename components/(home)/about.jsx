@@ -86,7 +86,7 @@ export default function About() {
                                                     width={25}
                                                     className="d-icon d-inline-block position-absolute"
                                                     src="/images/icon/download-icon.png"
-                                                    alt="about image 3"
+                                                    alt="Download Divyen Ghoghari Resume"
                                                 />
                                             </a>
                                         </div>

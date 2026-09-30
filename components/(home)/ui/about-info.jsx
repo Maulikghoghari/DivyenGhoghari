@@ -15,7 +15,7 @@ export default function AboutInfo() {
                 Hi, I'm Divyen! I am a passionate Android Developer dedicated to building performant, user-centric, and robust mobile applications. A highly skilled Senior Android Developer with over 11 Month of experience building intuitive, userfriendly mobile applications. Proficient in Java and Kotlin, with expertise in MVVM architecture,
                 Retrofit.
             </p>
-            <p>Ready to build something amazing together?</p>
+            <p>Ready to build something amazing together with Divyen Ghoghari?</p>
             <div className="about-info-wrapper pt-25 pb-20 mt-25">
                 <div className="row">
                     <div className="col-xl-6 col-lg-12 col-md-6 col-sm-12 col-12">
@@ -53,9 +53,9 @@ export default function AboutInfo() {
                                 <p className="mb-6">divyenghoghari618@gmail.com</p>
 
                                 <p className="jostMedium-font-family mb-6">
-                                    Nationality
-                                    <p className="mb-6">Surat, Gujarat</p>
+                                    Location
                                 </p>
+                                <p className="mb-6">Surat, Gujarat, India</p>
                             </li>
                         </ul>
                     </div>
