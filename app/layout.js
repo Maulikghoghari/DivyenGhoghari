@@ -6,11 +6,11 @@ import Providers from "./providers";
 export const metadata = {
   metadataBase: new URL("https://divyenghoghari-07.vercel.app"),
   title: {
-    default: "Divyen Ghoghari | Software Engineer Portfolio",
+    default: "Best Android Developer in Surat | Divyen Ghoghari",
     template: "%s | Divyen Ghoghari",
   },
   description:
-    "Divyen Ghoghari is a software engineer from Surat, Gujarat, India. Explore his portfolio, projects, skills, and experience in web and software development.",
+    "Looking for the best Android developer in Surat? Divyen Ghoghari is an Android developer specializing in modern, high-performance and user-friendly Android applications.",
   keywords: [
     "Divyen Ghoghari",
     "Divyen Ghoghari software engineer",
@@ -28,9 +28,9 @@ export const metadata = {
     type: "website",
     url: "https://divyenghoghari-07.vercel.app",
     siteName: "Divyen Ghoghari",
-    title: "Divyen Ghoghari | Software Engineer Portfolio",
+    title: "Best Android Developer in Surat | Divyen Ghoghari",
     description:
-      "Portfolio of Divyen Ghoghari, a software engineer from Surat, Gujarat. View projects, skills and contact details.",
+      "Looking for the best Android developer in Surat? Divyen Ghoghari is an Android developer specializing in modern, high-performance and user-friendly Android applications.",
     locale: "en_IN",
     images: [
       {
@@ -43,9 +43,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Divyen Ghoghari | Software Engineer Portfolio",
+    title: "Best Android Developer in Surat | Divyen Ghoghari",
     description:
-      "Portfolio of Divyen Ghoghari, a software engineer from Surat, Gujarat.",
+      "Looking for the best Android developer in Surat? Divyen Ghoghari is an Android developer specializing in modern, high-performance and user-friendly Android applications.",
     images: ["/og-image.png"],
   },
   robots: {
